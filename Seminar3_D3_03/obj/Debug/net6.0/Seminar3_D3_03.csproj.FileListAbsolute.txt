@@ -1,0 +1,15 @@
+G:\учеба\C# Seminar3\Seminar3_D3_03\bin\Debug\net6.0\Seminar3_D3_03.exe
+G:\учеба\C# Seminar3\Seminar3_D3_03\bin\Debug\net6.0\Seminar3_D3_03.deps.json
+G:\учеба\C# Seminar3\Seminar3_D3_03\bin\Debug\net6.0\Seminar3_D3_03.runtimeconfig.json
+G:\учеба\C# Seminar3\Seminar3_D3_03\bin\Debug\net6.0\Seminar3_D3_03.dll
+G:\учеба\C# Seminar3\Seminar3_D3_03\bin\Debug\net6.0\Seminar3_D3_03.pdb
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.csproj.AssemblyReference.cache
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.GeneratedMSBuildEditorConfig.editorconfig
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.AssemblyInfoInputs.cache
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.AssemblyInfo.cs
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.csproj.CoreCompileInputs.cache
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.dll
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\refint\Seminar3_D3_03.dll
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.pdb
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\Seminar3_D3_03.genruntimeconfig.cache
+G:\учеба\C# Seminar3\Seminar3_D3_03\obj\Debug\net6.0\ref\Seminar3_D3_03.dll
